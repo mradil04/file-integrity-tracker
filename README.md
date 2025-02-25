@@ -2,7 +2,7 @@
 A real-time file monitoring tool that tracks file changes (created, modified) using Python and SHA-256 hashing.
 
 
-📌 Features
+📌 Features \n
 ✅ Tracks file creation, modification
 ✅ Displays who made changes and the timestamp
 ✅ Uses color-coded terminal output for easy readability
