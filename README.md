@@ -12,7 +12,7 @@ A real-time file monitoring tool that tracks file changes (created, modified) us
 
 🚀 Installation
    1️⃣ Clone the Repository
-       git clone https://github.com/your-username/file-tracker.git
+       git clone https://github.com/mradil04/file-integrity-tracker.git
        cd file-tracker
    2️⃣ Install Dependencies
        pip install -r requirements.txt
